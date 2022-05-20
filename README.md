@@ -1,4 +1,4 @@
-<h1 align="center">Güven Uysal </h1> 
+# <h1 align="center">Güven Uysal </h1> 
 
 # Back End Developer olarak başladığım iş hayatında Full Stack Developer olarak devam etmekteyim.
  
