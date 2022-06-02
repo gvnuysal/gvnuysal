@@ -1,6 +1,7 @@
 # <h1 align="center">Güven Uysal </h1> 
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Back End Developer olarak başladığım iş hayatında Full Stack Developer olarak devam etmekteyim.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+Back End Developer olarak başladığım iş hayatında Full Stack Developer olarak devam etmekteyim.
  
 
 ## Tech Stack
