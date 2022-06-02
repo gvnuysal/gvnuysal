@@ -15,8 +15,8 @@ Back End Developer olarak başladığım iş hayatında Full Stack Developer ola
 
 
 ## Contact Me
-# [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvnuysal/) 
-# [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gvnuysal)
-# [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvnuysal@gmail.com) 
+# ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvnuysal/) 
+# ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gvnuysal)
+# ![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvnuysal@gmail.com) 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gvnuysal&show_icons=true&theme=gradient)
