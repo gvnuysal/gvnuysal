@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-label="Inside an integration">
+ <defs>
+ <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#0a1023"/><stop offset="1" stop-color="#1b1433"/></linearGradient>
+ <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a393d2" opacity=".25"/></pattern>
+ </defs>
+ <rect x="1" y="1" width="958" height="318" rx="22" fill="url(#bg)" stroke="#4e4c75"/>
+ <path d="M655 14h286v72H578Z" fill="url(#dots)"/>
+ 
+<text x="35" y="36" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#79e7d7">02 / SYSTEM FLOW</text>
+<text x="35" y="77" text-anchor="start" font-family="system-ui, sans-serif" font-size="33" font-weight="780" letter-spacing="0" fill="#edf1fc">Inside an integration</text>
+<text x="922" y="38" text-anchor="end" font-family="monospace" font-size="12" font-weight="600" letter-spacing="1" fill="#b8b6df">EXAMPLE · SAP BUSINESS ONE</text>
+<path d="M35 100h890" fill="none" stroke="#57658b" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="35" y="131" width="202" height="100" rx="12" fill="#131e37" stroke="#79e7d7"/>
+<text x="49" y="154" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="0" fill="#79e7d7">01</text>
+<text x="49" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="22" font-weight="750" letter-spacing="0" fill="#edf1fc">Source</text>
+<text x="49" y="211" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">Business document</text>
+<path d="M238 181h22l-5-5m5 5l-5 5" fill="none" stroke="#79e7d7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="264" y="131" width="202" height="100" rx="12" fill="#131e37" stroke="#c1a5ff"/>
+<text x="278" y="154" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="0" fill="#c1a5ff">02</text>
+<text x="278" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="22" font-weight="750" letter-spacing="0" fill="#edf1fc">Map</text>
+<text x="278" y="211" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">Target model</text>
+<path d="M467 181h22l-5-5m5 5l-5 5" fill="none" stroke="#c1a5ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="493" y="131" width="202" height="100" rx="12" fill="#131e37" stroke="#91c8ff"/>
+<text x="507" y="154" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="0" fill="#91c8ff">03</text>
+<text x="507" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="22" font-weight="750" letter-spacing="0" fill="#edf1fc">Send</text>
+<text x="507" y="211" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">Service Layer</text>
+<path d="M696 181h22l-5-5m5 5l-5 5" fill="none" stroke="#91c8ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="722" y="131" width="202" height="100" rx="12" fill="#131e37" stroke="#ffb3db"/>
+<text x="736" y="154" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="0" fill="#ffb3db">04</text>
+<text x="736" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="22" font-weight="750" letter-spacing="0" fill="#edf1fc">Verify</text>
+<text x="736" y="211" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">Outcome &amp; trace</text>
+<path d="M823 234v39H374v-38m0 0l-5 6m5-6l5 6" fill="none" stroke="#c1a5ff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596" y="295" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#c1a5ff">RECONCILE BEFORE RETRY</text>
+</svg>
