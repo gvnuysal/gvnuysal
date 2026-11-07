@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430" role="img" aria-labelledby="title desc">
+<title id="title">Güven Uysal</title>
+<desc id="desc">Software engineer and technical team lead. An isometric blueprint connects frontend, services and data.</desc>
+<defs>
+<linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#080c1c"/><stop offset="1" stop-color="#181431"/></linearGradient>
+<radialGradient id="a"><stop stop-color="#452583" stop-opacity=".65"/><stop offset="1" stop-color="#452583" stop-opacity="0"/></radialGradient>
+<radialGradient id="b"><stop stop-color="#136a80" stop-opacity=".41"/><stop offset="1" stop-color="#136a80" stop-opacity="0"/></radialGradient>
+<linearGradient id="plate" x2="100%" y2="100%"><stop stop-color="#152748"/><stop offset="1" stop-color="#1b1336"/></linearGradient>
+<linearGradient id="type"><stop stop-color="#fff"/><stop offset="1" stop-color="#b7a7ff"/></linearGradient>
+<linearGradient id="rule"><stop stop-color="#65eddb"/><stop offset=".55" stop-color="#ac74ff"/><stop offset="1" stop-color="#ac74ff" stop-opacity="0"/></linearGradient>
+<pattern id="dot" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7482c7" opacity=".24"/></pattern>
+<clipPath id="clip"><rect x="1" y="1" width="958" height="428" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="960" height="430" fill="url(#bg)"/>
+<ellipse cx="774" cy="155" rx="276" ry="232" fill="url(#a)"/>
+<ellipse cx="542" cy="276" rx="295" ry="220" fill="url(#b)"/>
+<path d="M480 0H960V385H418l110-151Z" fill="url(#dot)"/>
+<path d="M31 59h898M31 367h898" stroke="#506086" opacity=".45"/>
+<path d="M37 52V27h25M898 27h25v25M37 373v25h25M898 398h25v-25" fill="none" stroke="#596591"/>
+<circle cx="62" cy="43" r="4" fill="#75f9dd"/>
+<text x="77" y="48" font-family="monospace" font-size="13" letter-spacing="3" fill="#c1d3f0">ENGINEERING CONTROL ROOM</text>
+<text x="899" y="48" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="2" fill="#b7b0e3">PROFILE / 01</text>
+<text x="57" y="151" font-family="system-ui,sans-serif" font-weight="800" letter-spacing="-4" font-size="73" fill="url(#type)">Güven Uysal</text>
+<text x="62" y="190" font-family="system-ui,sans-serif" font-weight="600" font-size="21" fill="#dee9fa">Software Engineer · Technical Team Lead</text>
+<rect x="62" y="215" width="425" height="2" rx="1" fill="url(#rule)"/>
+<text x="62" y="251" font-family="monospace" font-size="13" letter-spacing="2" fill="#89ecdb">SERVICES / WORKFLOWS / DELIVERY</text>
+
+<rect x="62" y="273" width="55" height="27" rx="5" fill="#18233f" stroke="#b9a2ff" stroke-opacity=".48"/><text x="89.5" y="291" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#b9a2ff">.NET</text>
+<rect x="124" y="273" width="80" height="27" rx="5" fill="#18233f" stroke="#a5ccff" stroke-opacity=".48"/><text x="164.0" y="291" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#a5ccff">ANGULAR</text>
+<rect x="211" y="273" width="118" height="27" rx="5" fill="#18233f" stroke="#b9a2ff" stroke-opacity=".48"/><text x="270.0" y="291" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#b9a2ff">ABP FRAMEWORK</text>
+<rect x="336" y="273" width="139" height="27" rx="5" fill="#18233f" stroke="#87edda" stroke-opacity=".48"/><text x="405.5" y="291" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#87edda">SAP BUSINESS ONE</text>
+<rect x="62" y="310" width="96" height="27" rx="5" fill="#18233f" stroke="#87edda" stroke-opacity=".48"/><text x="110.0" y="328" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#87edda">BONITA BPM</text>
+<rect x="165" y="310" width="99" height="27" rx="5" fill="#18233f" stroke="#a5ccff" stroke-opacity=".48"/><text x="214.5" y="328" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#a5ccff">DEVEXPRESS</text>
+<rect x="271" y="310" width="99" height="27" rx="5" fill="#18233f" stroke="#e8abfb" stroke-opacity=".48"/><text x="320.5" y="328" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#e8abfb">SQL SERVER</text>
+<rect x="377" y="310" width="98" height="27" rx="5" fill="#18233f" stroke="#87edda" stroke-opacity=".48"/><text x="426.0" y="328" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#87edda">POSTGRESQL</text>
+<polygon points="704,255 814,305 726,345 616,295" fill="#080b1b" stroke="#72f8dc" opacity=".32" transform="translate(0,9)"/>
+<polygon points="704,255 814,305 726,345 616,295" fill="url(#plate)" stroke="#72f8dc" stroke-width="1.5"/>
+<polyline points="726,265 638,305" stroke="#72f8dc" opacity=".2"/>
+<polyline points="748,275 660,315" stroke="#72f8dc" opacity=".2"/>
+<polyline points="770,285 682,325" stroke="#72f8dc" opacity=".2"/>
+<polyline points="792,295 704,335" stroke="#72f8dc" opacity=".2"/>
+<polyline points="682,265 792,315" stroke="#72f8dc" opacity=".2"/>
+<polyline points="660,275 770,325" stroke="#72f8dc" opacity=".2"/>
+<polyline points="638,285 748,335" stroke="#72f8dc" opacity=".2"/>
+<polygon points="704.0,269.6 715.8800000000001,275.0 704.0,280.4 692.1199999999999,275.0" fill="#72f8dc" opacity=".85"/>
+<polygon points="748.0,289.6 759.8800000000001,295.0 748.0,300.4 736.1199999999999,295.0" fill="#72f8dc" opacity=".85"/>
+<polygon points="704.0,309.6 715.8800000000001,315.0 704.0,320.4 692.1199999999999,315.0" fill="#72f8dc" opacity=".85"/>
+<polyline points="704,275 748,295 704,315" fill="none" stroke="#72f8dc" stroke-width="2" opacity=".85"/>
+<path d="M814 305h15l10-9h61" fill="none" stroke="#72f8dc" opacity=".55"/><text x="899" y="290" text-anchor="end" font-family="monospace" font-size="11" fill="#72f8dc">03 / DATA</text>
+<polygon points="704,180 814,230 726,270 616,220" fill="#080b1b" stroke="#b48bff" opacity=".32" transform="translate(0,9)"/>
+<polygon points="704,180 814,230 726,270 616,220" fill="url(#plate)" stroke="#b48bff" stroke-width="1.5"/>
+<polyline points="726,190 638,230" stroke="#b48bff" opacity=".2"/>
+<polyline points="748,200 660,240" stroke="#b48bff" opacity=".2"/>
+<polyline points="770,210 682,250" stroke="#b48bff" opacity=".2"/>
+<polyline points="792,220 704,260" stroke="#b48bff" opacity=".2"/>
+<polyline points="682,190 792,240" stroke="#b48bff" opacity=".2"/>
+<polyline points="660,200 770,250" stroke="#b48bff" opacity=".2"/>
+<polyline points="638,210 748,260" stroke="#b48bff" opacity=".2"/>
+<polygon points="704.0,194.60000000000002 715.8800000000001,200.0 704.0,205.39999999999998 692.1199999999999,200.0" fill="#b48bff" opacity=".85"/>
+<polygon points="748.0,214.60000000000002 759.8800000000001,220.0 748.0,225.39999999999998 736.1199999999999,220.0" fill="#b48bff" opacity=".85"/>
+<polygon points="704.0,234.60000000000002 715.8800000000001,240.0 704.0,245.39999999999998 692.1199999999999,240.0" fill="#b48bff" opacity=".85"/>
+<polyline points="704,200 748,220 704,240" fill="none" stroke="#b48bff" stroke-width="2" opacity=".85"/>
+<path d="M814 230h15l10-9h61" fill="none" stroke="#b48bff" opacity=".55"/><text x="899" y="215" text-anchor="end" font-family="monospace" font-size="11" fill="#b48bff">02 / SERVICES</text>
+<polygon points="704,105 814,155 726,195 616,145" fill="#080b1b" stroke="#76c8ff" opacity=".32" transform="translate(0,9)"/>
+<polygon points="704,105 814,155 726,195 616,145" fill="url(#plate)" stroke="#76c8ff" stroke-width="1.5"/>
+<polyline points="726,115 638,155" stroke="#76c8ff" opacity=".2"/>
+<polyline points="748,125 660,165" stroke="#76c8ff" opacity=".2"/>
+<polyline points="770,135 682,175" stroke="#76c8ff" opacity=".2"/>
+<polyline points="792,145 704,185" stroke="#76c8ff" opacity=".2"/>
+<polyline points="682,115 792,165" stroke="#76c8ff" opacity=".2"/>
+<polyline points="660,125 770,175" stroke="#76c8ff" opacity=".2"/>
+<polyline points="638,135 748,185" stroke="#76c8ff" opacity=".2"/>
+<polygon points="704.0,119.6 715.8800000000001,125.0 704.0,130.4 692.1199999999999,125.0" fill="#76c8ff" opacity=".85"/>
+<polygon points="748.0,139.60000000000002 759.8800000000001,145.0 748.0,150.39999999999998 736.1199999999999,145.0" fill="#76c8ff" opacity=".85"/>
+<polygon points="704.0,159.60000000000002 715.8800000000001,165.0 704.0,170.39999999999998 692.1199999999999,165.0" fill="#76c8ff" opacity=".85"/>
+<polyline points="704,125 748,145 704,165" fill="none" stroke="#76c8ff" stroke-width="2" opacity=".85"/>
+<path d="M814 155h15l10-9h61" fill="none" stroke="#76c8ff" opacity=".55"/><text x="899" y="140" text-anchor="end" font-family="monospace" font-size="11" fill="#76c8ff">01 / INTERFACE</text>
+<path d="M616 145v150M814 155v150M704 105v150" fill="none" stroke="#cbbdff" stroke-width="1.3" stroke-dasharray="3 7" opacity=".45"/>
+<g font-family="monospace" font-size="13" letter-spacing="2">
+<text x="62" y="398" fill="#9be9dd">@GVNUYSAL</text>
+<text x="899" y="398" text-anchor="end" fill="#bdc8ec">BACKEND → INTEGRATIONS → DELIVERY</text>
+</g>
+</g><rect x="1" y="1" width="958" height="428" rx="24" fill="none" stroke="#555686"/>
+</svg>
