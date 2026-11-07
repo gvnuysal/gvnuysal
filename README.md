@@ -1,22 +1,48 @@
-# <h1 align="center">Güven Uysal </h1> 
+<p align="center">
+  <img src="./assets/profile-header.svg" width="900" alt="Güven Uysal · Software Engineer and Technical Team Lead">
+</p>
 
-Back End Developer olarak başladığım iş hayatında Full Stack Developer olarak devam etmekteyim.
- 
+<p align="center">
+  <a href="#engineering-focus">Engineering focus</a> &nbsp; / &nbsp;
+  <a href="#selected-repositories">Selected repositories</a> &nbsp; / &nbsp;
+  <a href="https://github.com/gvnuysal?tab=repositories">All repositories ↗</a>
+</p>
 
-## Tech Stack
-# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bonita](https://avatars.githubusercontent.com/u/5096598?s=200&v=4?style=for-the-badge)
- 
-# ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Engineering focus
 
-# ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
- 
-# ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm a software engineer and technical team lead. I build .NET services, Angular applications, and integrations that move business data between systems. I like working through the details that decide what happens in production: how an operation retries, how a team traces a failure, and how a release can be repeated.
 
+| Area | What I work on | Tools |
+| :--- | :--- | :--- |
+| **01 · Backend** | APIs, multi-tenant applications, and domain boundaries | C# · .NET · ABP Framework · EF Core |
+| **02 · Integrations** | ERP workflows, background processing, and message delivery | SAP Business One · REST · RabbitMQ · Hangfire |
+| **03 · Data** | SQL, relational modeling, migrations, and caching | PostgreSQL · SQL Server · Redis |
+| **04 · Business processes** | Business process modeling and workflow automation | Bonita BPM |
+| **05 · Frontend & delivery** | Business interfaces, automated testing, and deployments | Angular · TypeScript · DevExpress · Playwright · Bitbucket Pipelines |
 
+> **A question I ask before shipping:** If this operation fails halfway through, can we tell what happened and safely run it again?
 
-## Contact Me
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvnuysal/) 
- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gvnuysal)
- [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvnuysal@gmail.com) 
+## Selected repositories
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=gvnuysal&show_icons=true&theme=gradient)
+| Index | Repository |
+| :--- | :--- |
+| 01 | [**gvn-commerce** ↗](https://github.com/gvnuysal/gvn-commerce) |
+| 02 | [**DevFramework** ↗](https://github.com/gvnuysal/DevFramework) |
+| 03 | [**PackIT** ↗](https://github.com/gvnuysal/PackIT) |
+| 04 | [**angular-sozluk** ↗](https://github.com/gvnuysal/angular-sozluk) |
+
+<details>
+<summary><strong>What I like to discuss</strong></summary>
+
+- Where service boundaries should sit and when a separate service is worth running.
+- How to make integrations safe to retry and easier to diagnose.
+- How to carry a schema change from development into production.
+- How to help a team deliver consistently through reviews, shared conventions, and automation.
+
+</details>
+
+---
+
+<p align="center">
+  <sub><strong>GÜVEN UYSAL</strong> &nbsp; / &nbsp; <a href="https://github.com/gvnuysal">@gvnuysal</a></sub>
+</p>
