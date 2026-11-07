@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="306" viewBox="0 0 960 306" role="img" aria-label="Technology matrix">
+ <defs>
+ <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#0a1023"/><stop offset="1" stop-color="#1b1433"/></linearGradient>
+ <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a393d2" opacity=".25"/></pattern>
+ </defs>
+ <rect x="1" y="1" width="958" height="304" rx="22" fill="url(#bg)" stroke="#4e4c75"/>
+ <path d="M655 14h286v72H578Z" fill="url(#dots)"/>
+ 
+<text x="35" y="36" text-anchor="start" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#79e7d7">01 / SYSTEMS</text>
+<text x="35" y="77" text-anchor="start" font-family="system-ui, sans-serif" font-size="33" font-weight="780" letter-spacing="0" fill="#edf1fc">Technology matrix</text>
+<text x="922" y="38" text-anchor="end" font-family="monospace" font-size="12" font-weight="600" letter-spacing="1" fill="#b8b6df">ENGINEERING CONSOLE</text>
+<path d="M35 100h890" fill="none" stroke="#57658b" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="35" y="126" width="215" height="153" rx="12" fill="#131e37" stroke="#79e7d7"/>
+<text x="50" y="150" text-anchor="start" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#79e7d7">01 / BACKEND</text>
+<text x="50" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="17" font-weight="750" letter-spacing="0" fill="#edf1fc">.NET · C#</text>
+<text x="50" y="210" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">ABP Framework · EF Core</text>
+<path d="M50 225h182" fill="none" stroke="#405273" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="250" text-anchor="start" font-family="system-ui, sans-serif" font-size="11" font-weight="500" letter-spacing="0" fill="#aab9d3">Multi-tenant applications</text>
+<rect x="260" y="126" width="215" height="153" rx="12" fill="#131e37" stroke="#c1a5ff"/>
+<text x="275" y="150" text-anchor="start" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#c1a5ff">02 / INTERFACE</text>
+<text x="275" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="17" font-weight="750" letter-spacing="0" fill="#edf1fc">Angular · TypeScript</text>
+<text x="275" y="210" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">DevExpress</text>
+<path d="M275 225h182" fill="none" stroke="#405273" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="275" y="250" text-anchor="start" font-family="system-ui, sans-serif" font-size="11" font-weight="500" letter-spacing="0" fill="#aab9d3">Business UI and data grids</text>
+<rect x="485" y="126" width="215" height="153" rx="12" fill="#131e37" stroke="#91c8ff"/>
+<text x="500" y="150" text-anchor="start" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#91c8ff">03 / WORKFLOWS</text>
+<text x="500" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="17" font-weight="750" letter-spacing="0" fill="#edf1fc">Bonita BPM · SAP B1</text>
+<text x="500" y="210" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">RabbitMQ · Hangfire</text>
+<path d="M500 225h182" fill="none" stroke="#405273" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="500" y="250" text-anchor="start" font-family="system-ui, sans-serif" font-size="11" font-weight="500" letter-spacing="0" fill="#aab9d3">Process and ERP integration</text>
+<rect x="710" y="126" width="215" height="153" rx="12" fill="#131e37" stroke="#ffb3db"/>
+<text x="725" y="150" text-anchor="start" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#ffb3db">04 / DATA &amp; DELIVERY</text>
+<text x="725" y="184" text-anchor="start" font-family="system-ui, sans-serif" font-size="15" font-weight="750" letter-spacing="0" fill="#edf1fc">SQL Server · PostgreSQL</text>
+<text x="725" y="210" text-anchor="start" font-family="system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="0" fill="#ccd6ed">Redis · Docker · Playwright</text>
+<path d="M725 225h182" fill="none" stroke="#405273" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="725" y="250" text-anchor="start" font-family="system-ui, sans-serif" font-size="11" font-weight="500" letter-spacing="0" fill="#aab9d3">Storage, testing and releases</text>
+</svg>
